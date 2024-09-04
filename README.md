@@ -1,7 +1,7 @@
 # Whitepapers
 In this repository, you can find the whitepapers that have been written by Panther Product Team. This repository has three branches, in order to check the details please switch branches.
 
-How to reach different branches, click on Branches on the above table head which will be present on the left.
+How to reach different branches: Click on Branches on the above table head which will be present on the left.
 
 
 ![](Whitepapers.PNG)
